@@ -1,19 +1,19 @@
 # Table of contents
 
-* [Preparation Minor Applied Econometrics](README.md)
-* [EOR pre-Minor course](<README (1).md>)
+* [Preparation Minor Applied Econometrics](<README (1).md>)
+* [EOR pre-Minor course](./)
 
 ## Introduction
 
 * [Welcome](introduction/welcome.md)
-* [What will you learn](introduction/what-will-you-learn/README.md)
+* [What will you learn](introduction/what-will-you-learn/)
   * [Example of embeded video](introduction/what-will-you-learn/example-of-embeded-video.md)
   * [Example of Katex formula](introduction/what-will-you-learn/example-of-katex-formula.md)
   * [Pricing of GitBook](introduction/what-will-you-learn/pricing-of-gitbook.md)
 
 ## Probability theory
 
-* [Page 1](probability-theory/page-1/README.md)
+* [Page 1](probability-theory/page-1/)
   * [Page 4](probability-theory/page-1/page-4.md)
 
 ## Statistics
@@ -26,9 +26,7 @@
 
 ## Statistics
 
-* [Statistics](statistics-1/statistics/README.md)
+* [Statistics](statistics-1/statistics/)
   * [Random variables](statistics-1/statistics/random-variables.md)
 
 ## Test
-
-

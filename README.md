@@ -2,11 +2,6 @@
 description: This is a test if the tool functions a bit...
 ---
 
-# Preparation Minor Applied Econometrics
+# EOR pre-Minor course
 
-```r
-// Some code
-x <- rnorm(100,0,1)
-plot(x)
-```
-
+Yes this exact line is added from GitHub.
