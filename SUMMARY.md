@@ -1,4 +1,4 @@
-# Table of contents
+# Table of contentjes :)
 
 * [Preparation Minor Applied Econometrics](<README (1).md>)
 * [EOR pre-Minor course](./)
