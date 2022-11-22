@@ -1,2 +1,6 @@
-# vu-sbe
-This is a repo for hosting documentation at the School of Business and Economics at the Vrije Universiteit Amsterdam
+---
+description: This is a test if the tool functions a bit...
+---
+
+# EOR pre-Minor course
+
