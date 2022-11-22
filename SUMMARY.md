@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Preparation Minor Applied Econometrics](README.md)
+* [Preparation Minor Applied Econometrics...](README.md)
 * [EOR pre-Minor course](readme.md)
 * [Table of contents](\_summary.md)
 * [introduction](introduction/README.md)
