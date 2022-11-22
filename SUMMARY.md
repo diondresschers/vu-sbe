@@ -22,5 +22,5 @@
     * [Random variables](statistics-1/statistics/random-variables.md)
 * [statistics](statistics/README.md)
   * [Page 2](statistics/page-2.md)
-* [test](test/README.md)
+* [H5P test](test/README.md)
   * [will this be added from GitHub ?](test/test.md)
