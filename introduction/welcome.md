@@ -1,3 +1,3 @@
 # Welcome
 
-Hier is een Merge request  
+Hier is een Merge request... 😁 
