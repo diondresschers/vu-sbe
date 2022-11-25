@@ -26,7 +26,7 @@
 
 ## Statistics
 
-* [Statistics](statistics-1/statistics/)
-  * [Random variables](statistics-1/statistics/random-variables.md)
+* [Statistics](broken-reference)
+  * [Random variables](broken-reference)
 
 ## Test
