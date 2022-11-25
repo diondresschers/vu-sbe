@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Preparation Minor Applied Econometrics...](README.md)
+* [Preparation Minor Applied Econometrics](README.md)
 * [EOR pre-Minor course](readme.md)
 * [Table of contents](\_summary.md)
-* [introduction](introduction/README.md)
+* [Introduction](introduction/README.md)
   * [Welcome](introduction/welcome.md)
   * [Welcome2](introduction/welcome2.md)
   * [What will you learn](introduction/what-will-you-learn/README.md)
@@ -22,5 +22,5 @@
     * [Random variables](statistics-1/statistics/random-variables.md)
 * [statistics](statistics/README.md)
   * [Page 2](statistics/page-2.md)
-* [H5P test](test/README.md)
-  * [will this be added from GitHub ?](test/test.md)
+* [H5P test](h5p-test/README.md)
+  * [will this be added from GitHub ?](h5p-test/will-this-be-added-from-github.md)
