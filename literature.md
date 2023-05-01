@@ -1,6 +1,9 @@
 # Literature
 
+This page provides some useful references with respect to different areas that are important for studying econometrics. The intention is **not** that you study all of these before you start the minor Applied Econometrics. Instead, it is intended to&#x20;
 
+* Give you the possibility to read up on (and practice) particular topics you feel less certain about.
+* Check whether your pre-requisite knowledge matches with the expected level for this minor program.
 
 {% tabs %}
 {% tab title="Statistics" %}
