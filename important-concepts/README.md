@@ -6,7 +6,7 @@ coverY: 0
 
 # 📚 Important concepts
 
-It is generally difficult to define a complete profile in terms of background knowledge required for this minor. The teachers in this program have collected a list of topics in **statistics,** which they identify as crucial for a successful start into the first courses. It is advisable that you know about these concepts before you commence the minor.
+It is generally difficult to define a complete profile in terms of background knowledge required for this minor. The teachers in this program have collected a list of topics in **statistics,** which they identify as crucial for a successful start into the first courses:&#x20;
 
 * Random variables and realizations
 * Probability distribution functions (PDF) and cumulative distribution functions (CDF)
@@ -19,5 +19,7 @@ It is generally difficult to define a complete profile in terms of background kn
 * Inference: hypothesis testing, _p_-values_,_ confidence intervals
 *   Asymptotics: convergence in probability, convergence in distribution, law of large numbers,
 
-    central limit theorem, asymptotic normality&#x20;
+    central limit theorem, asymptotic normality
+
+It is highly advisable that you are familiar with (most of) them as background knowledge. The following pages explain intuitively why these concepts are important to get a smooth start into your first econometrics courses. For a formal treatment of the concepts, you can find appropriate references in the [Literature](../literature.md) section.
 
