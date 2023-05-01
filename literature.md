@@ -58,7 +58,7 @@ The following books are suitable as an introduction to the field of Econometrics
 
 > [Wooldridge, J. (2013). _Introductory Econometrics._ A Modern Approach, 5th international edition.](https://drive.google.com/file/d/1Gw\_VYjaRxi8Tq-EroKiQLJYuFIW3gs9f/view)
 >
-> \--> Chapter ...
+> \--> Chapter 1-5
 
 #### Basic/intermediate (matrix algebra):
 
