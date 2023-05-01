@@ -94,5 +94,9 @@ The two main programming languages used in the minor Applied Econometrics are Py
 
 Note that courses for both programming languages are also available online using popular platforms such as [Datacamp](https://www.datacamp.com/) and [Coursera](https://www.coursera.org/). Usually these costs money however (a discount may be obtained by showing your university enrollment). &#x20;
 {% endtab %}
+
+{% tab title="High school math" %}
+Do you feel like your math skills are a bit rusty? Note that [Khan Academy](https://www.khanacademy.org/) offers a free platform with theory and practice quizzes.&#x20;
+{% endtab %}
 {% endtabs %}
 
