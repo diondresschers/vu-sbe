@@ -2,6 +2,8 @@
 
 * [Minor Applied Econometrics: Preparation Module](README.md)
 * [Table of contents](\_summary.md)
+* [Preliminary notes](preliminary-notes.md)
+* [Literature](literature.md)
 * [Analysis](analysis.md)
 * [Introduction](introduction/README.md)
   * [Welcome](introduction/welcome.md)
