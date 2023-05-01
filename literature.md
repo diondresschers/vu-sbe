@@ -29,7 +29,7 @@ The following books are suitable as an introduction in the fields of Probability
 
 #### _Intermediate_
 
-> [Rice, J.A. (2007). _Mathematical Statistics and Data Analysis._ Cengage Learning. ](http://home.ustc.edu.cn/\~liweiyu/documents/\[Duxbury%20Advanced]%20John%20A.%20Rice%20-%20Mathematical%20Statistics%20and%20Data%20Analysis%203ed%20\(Duxbury%20Advanced\)%20%20%20\(2006,%20Duxbury%20Press\).pdf)
+> [Rice, J.A. (2007). _Mathematical Statistics and Data Analysis._ Cengage Learning.](https://books.google.nl/books/about/Mathematical\_Statistics\_and\_Data\_Analysi.html?id=7SI8AAAAQBAJ\&redir\_esc=y)&#x20;
 >
 > _--> Chapter 1-6, 8, 12._
 
