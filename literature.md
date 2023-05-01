@@ -29,7 +29,7 @@
 >
 > \--> Chapter 6-7 (multiple linear regression)
 
-#### _Alternatively (book typically has more empirical examples):_
+#### _Alternatively (book has more empirical examples):_
 
 > [Wooldridge, J. (2013). _Introductory Econometrics._ A Modern Approach, 5th international edition.](https://drive.google.com/file/d/1Gw\_VYjaRxi8Tq-EroKiQLJYuFIW3gs9f/view)
 
