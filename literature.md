@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw3fHxsaXRlcmF0dXJlfGVufDB8fHx8MTY4Mjk1MTA3MQ&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # Literature
 
 This page provides some useful references with respect to different areas that are important for studying econometrics. The intention is **not** that you study all of these before you start the minor Applied Econometrics. Instead, it is intended to&#x20;
