@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Preparation Minor Applied Econometrics](./)
-* [EOR pre-Minor course](./)
+* [EOR pre-Minor course](broken-reference)
 
 ## Introduction
 
