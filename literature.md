@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="Statistics" %}
-The following books are suitable to get an introduction in the fields of Probability Theory and Statistics.&#x20;
+The following books are suitable as an introduction in the fields of Probability Theory and Statistics.&#x20;
 
 * The first reference provides a very basic introduction needed to enter an introductory course in econometrics.&#x20;
 * Ideally, more in-dept knowledge is required, and the second reference provides exactly that background (suitable for the regular track of the minor).&#x20;
@@ -16,7 +16,7 @@ The following books are suitable to get an introduction in the fields of Probabi
 >
 > _--> Chapter 1-3._
 
-#### _Intermediate_
+#### _Intermediate:_
 
 > [Rice, J.A. (2007). _Mathematical Statistics and Data Analysis._ Cengage Learning. ](http://home.ustc.edu.cn/\~liweiyu/documents/\[Duxbury%20Advanced]%20John%20A.%20Rice%20-%20Mathematical%20Statistics%20and%20Data%20Analysis%203ed%20\(Duxbury%20Advanced\)%20%20%20\(2006,%20Duxbury%20Press\).pdf)
 >
@@ -30,7 +30,12 @@ The following books are suitable to get an introduction in the fields of Probabi
 {% endtab %}
 
 {% tab title="Econometrics" %}
-#### _Suitable for introductory econometrics (no matrix notation):_
+The following books are suitable as an introduction to the field of Econometrics. It is not mandatory to have econometrics knowledge when following the regular track of the minor (but it might be beneficial to know some of the basics). In case you have already had econometrics classes before, you can check your pre-requisite knowledge here.
+
+* The first two books are often used textbooks for introductory econometrics. In the BSc EOR, they are used in the second-year courses Econometrics I and II and therefore provide appropriate references.
+* The last two books combine econometrics and linear algebra, because the linear regression model is considered in the context of matrix algebra. The books are quite thin and cover the basics, which makes them appropriate for self-study.&#x20;
+
+#### _Basic/intermediate (no matrix algebra):_
 
 > [Stock, J.H. and Watson, M.W. (2019). _Introduction to Econometrics_. 4th edition.](https://scholar.harvard.edu/stock/pages/introduction-econometrics)
 >
@@ -38,21 +43,21 @@ The following books are suitable to get an introduction in the fields of Probabi
 >
 > \--> Chapter 6-7 (multiple linear regression)
 
-#### _Alternatively (book has more empirical examples):_
-
 > [Wooldridge, J. (2013). _Introductory Econometrics._ A Modern Approach, 5th international edition.](https://drive.google.com/file/d/1Gw\_VYjaRxi8Tq-EroKiQLJYuFIW3gs9f/view)
+>
+> \--> Chapter ...
 
-#### _The first book provides a short, concise and rigid introduction in econometrics based on matrix algebra. The second book provides exercises and solutions based on the material in the first book. Exercises are both theoretical and empirical, with support in RStudio:_
+#### Basic/intermediate (matrix algebra):
 
 > [J.R. Magnus (2017). Introduction to the Theory of Econometrics. VU University Press. ](https://vuuniversitypress.com/product/introduction-to-the-theory-of-econometrics/?lang=en)
->
-> \--> Chapter 1-6, Appendix A-B (complete book)
 >
 > \--> From sixth printing onwards, the book has video links
 
 > [J.R. Magnus and S. Telg (2021). Mastering Econometrics: Exercises and Solutions. VU University Press.](https://vuuniversitypress.com/product/mastering-econometrics/?lang=en)
+>
+> \--> Book has theoretical and empirical exercises with solutions. Support is offered for RStudio.&#x20;
 
-Books can be bought as a set with discount [here](https://vuuniversitypress.com/product/expected-set-introduction-to-the-theory-of-econometrics-mastering-econometrics/?lang=en).
+These books can be bought as a set with discount at [VU University Press](https://vuuniversitypress.com/product/expected-set-introduction-to-the-theory-of-econometrics-mastering-econometrics/?lang=en).
 {% endtab %}
 
 {% tab title="Linear Algebra" %}
