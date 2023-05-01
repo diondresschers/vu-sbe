@@ -10,8 +10,9 @@
 
 #### _Introductory level in probability theory and statistics:_
 
-> [Rice, J.A. (2007). _Mathematical Statistics and Data Analysis._ Cengage Learning. \
-> \--> _Chapter 1-6, 8, 12._](http://home.ustc.edu.cn/\~liweiyu/documents/\[Duxbury%20Advanced]%20John%20A.%20Rice%20-%20Mathematical%20Statistics%20and%20Data%20Analysis%203ed%20\(Duxbury%20Advanced\)%20%20%20\(2006,%20Duxbury%20Press\).pdf)
+> [Rice, J.A. (2007). _Mathematical Statistics and Data Analysis._ Cengage Learning. ](http://home.ustc.edu.cn/\~liweiyu/documents/\[Duxbury%20Advanced]%20John%20A.%20Rice%20-%20Mathematical%20Statistics%20and%20Data%20Analysis%203ed%20\(Duxbury%20Advanced\)%20%20%20\(2006,%20Duxbury%20Press\).pdf)
+>
+> _--> Chapter 1-6, 8, 12._
 
 #### _More advanced:_
 
