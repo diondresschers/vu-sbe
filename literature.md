@@ -1,20 +1,28 @@
 # Literature
 
+
+
 {% tabs %}
-{% tab title="Probability Theory and Statistics" %}
-#### _Basic preparation in probability theory and statistics for a first econometrics course:_
+{% tab title="Statistics" %}
+The following books are suitable to get an introduction in the fields of Probability Theory and Statistics.&#x20;
+
+* The first reference provides a very basic introduction needed to enter an introductory course in econometrics.&#x20;
+* Ideally, more in-dept knowledge is required, and the second reference provides exactly that background (suitable for the regular track of the minor).&#x20;
+* The third reference is very advanced (used during the BSc EOR and thus appropriate for the technical track of the minor).&#x20;
+
+#### _Basic:_
 
 > [Stock, J.H. and Watson, M.W. (2019). _Introduction to Econometrics_. 4th edition.](https://scholar.harvard.edu/stock/pages/introduction-econometrics)
 >
 > _--> Chapter 1-3._
 
-#### _Introductory level in probability theory and statistics:_
+#### _Intermediate_
 
 > [Rice, J.A. (2007). _Mathematical Statistics and Data Analysis._ Cengage Learning. ](http://home.ustc.edu.cn/\~liweiyu/documents/\[Duxbury%20Advanced]%20John%20A.%20Rice%20-%20Mathematical%20Statistics%20and%20Data%20Analysis%203ed%20\(Duxbury%20Advanced\)%20%20%20\(2006,%20Duxbury%20Press\).pdf)
 >
 > _--> Chapter 1-6, 8, 12._
 
-#### _More advanced:_
+#### _Advanced:_
 
 > [Casella, G. and Berger, R.L. (2008). _Statistical Inference._ International Edition of the 2nd revised edition, Cengage Learning. ](https://www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126)
 >
@@ -45,6 +53,14 @@
 > [J.R. Magnus and S. Telg (2021). Mastering Econometrics: Exercises and Solutions. VU University Press.](https://vuuniversitypress.com/product/mastering-econometrics/?lang=en)
 
 Books can be bought as a set with discount [here](https://vuuniversitypress.com/product/expected-set-introduction-to-the-theory-of-econometrics-mastering-econometrics/?lang=en).
+{% endtab %}
+
+{% tab title="Linear Algebra" %}
+> Lay, D.C., Lay, S.R. and McDonald, J.J. (2021). _Linear Algebra and its Applications._ 5th edition, Pearson Global Edition, ISBN-139781292092232
+{% endtab %}
+
+{% tab title="Analysis" %}
+
 {% endtab %}
 {% endtabs %}
 
