@@ -67,5 +67,32 @@ These books can be bought as a set with discount at [VU University Press](https:
 {% tab title="Analysis" %}
 
 {% endtab %}
+
+{% tab title="Programming" %}
+The two main programming languages used in the minor Applied Econometrics are Python and R. You do not have to be an expert in both, so it is sufficient to focus on one of them.
+
+* In the regular track, you will get a (short) introduction to programming. It is not mandatory to have programming pre-knowledge, but it might be useful.
+* In the technical track, it is assumed that you know how to program in at least one programming language (e.g., R, Pyton, Matlab, Julia, C++, Java).
+
+### Online courses
+
+#### Python
+
+{% hint style="info" %}
+[MIT OpenCourseWare "Introduction to Computer Science and Programming in Python"](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+{% endhint %}
+
+{% hint style="info" %}
+[QuantEcon](https://quantecon.org/)
+{% endhint %}
+
+#### R
+
+{% hint style="info" %}
+[Codeacademy](https://www.codecademy.com/learn/learn-r)
+{% endhint %}
+
+Note that courses for both programming languages are also available online using popular platforms such as [Datacamp](https://www.datacamp.com/) and [Coursera](https://www.coursera.org/). Usually these costs money however (a discount may be obtained by showing your university enrollment). &#x20;
+{% endtab %}
 {% endtabs %}
 

@@ -4,11 +4,11 @@
 
 ## Introduction
 
-* [Welcome](introduction/welcome.md)
-* [What will you learn](introduction/what-will-you-learn/)
-  * [Example of embeded video](introduction/what-will-you-learn/example-of-embeded-video.md)
-  * [Example of Katex formula](introduction/what-will-you-learn/example-of-katex-formula.md)
-  * [Pricing of GitBook](introduction/what-will-you-learn/pricing-of-gitbook.md)
+* [Welcome](broken-reference)
+* [What will you learn](broken-reference)
+  * [Example of embeded video](broken-reference)
+  * [Example of Katex formula](broken-reference)
+  * [Pricing of GitBook](broken-reference)
 
 ## Probability theory
 
@@ -17,7 +17,7 @@
 
 ## Statistics
 
-* [Page 2](statistics/page-2.md)
+* [Page 2](broken-reference)
 
 ## Programming
 
