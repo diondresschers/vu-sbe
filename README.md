@@ -1,5 +1,8 @@
 ---
 description: Welcome to this preparation module for the Minor Applied Econometrics.
+cover: >-
+  https://images.unsplash.com/photo-1498050108023-c5249f4df085?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw5fHxkYXRhJTIwc2NpZW5jZXxlbnwwfHx8fDE2ODI5NDk4MTg&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # Minor Applied Econometrics: Preparation Module
