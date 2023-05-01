@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Literature
+# 📖 Literature
 
 This page provides some useful references with respect to different areas that are important for studying econometrics. The intention is **not** that you study all of these before you start the minor Applied Econometrics. Instead, it is intended to&#x20;
 

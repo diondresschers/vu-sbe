@@ -1,6 +1,5 @@
-# Preliminary notes
+# 🖊 NOTES
 
-**Topics to be covered:**\
 \- Random variable vs realization, PDF, CDF, functions of a random variable\
 \- Mean, variance, higher-order moments, quantiles\
 \- Dependence, correlation, covariance, multivariate random variables (e.g. covariance and correlation matrix)\
