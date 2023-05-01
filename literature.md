@@ -1,7 +1,7 @@
 # Literature
 
-## Probability Theory and **Statistics**
-
+{% tabs %}
+{% tab title="Probability Theory and Statistics" %}
 #### _Basic preparation in probability theory and statistics for a first econometrics course:_
 
 > [Stock, J.H. and Watson, M.W. (2019). _Introduction to Econometrics_. 4th edition.](https://scholar.harvard.edu/stock/pages/introduction-econometrics)
@@ -18,9 +18,9 @@
 > [Casella, G. and Berger, R.L. (2008). _Statistical Inference._ International Edition of the 2nd revised edition, Cengage Learning. ](https://www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126)
 >
 > _--> Chapter 1-10._
+{% endtab %}
 
-## **Econometrics**
-
+{% tab title="Econometrics" %}
 #### _Suitable for introductory econometrics (no matrix notation):_
 
 > [Stock, J.H. and Watson, M.W. (2019). _Introduction to Econometrics_. 4th edition.](https://scholar.harvard.edu/stock/pages/introduction-econometrics)
@@ -43,4 +43,7 @@
 
 > [J.R. Magnus and S. Telg (2021). Mastering Econometrics: Exercises and Solutions. VU University Press.](https://vuuniversitypress.com/product/mastering-econometrics/?lang=en)
 
-Books can be bought as a set with discount [here](https://vuuniversitypress.com/product/expected-set-introduction-to-the-theory-of-econometrics-mastering-econometrics/?lang=en).\
+Books can be bought as a set with discount [here](https://vuuniversitypress.com/product/expected-set-introduction-to-the-theory-of-econometrics-mastering-econometrics/?lang=en).
+{% endtab %}
+{% endtabs %}
+
