@@ -16,8 +16,8 @@ This page provides some useful references with respect to different areas that a
 The following books are suitable as an introduction in the fields of Probability Theory and Statistics.&#x20;
 
 * The first reference provides a very basic introduction needed to enter an introductory course in econometrics.&#x20;
-* Ideally, more in-dept knowledge is required, and the second reference provides exactly that background (suitable for the regular track of the minor).&#x20;
-* The third reference is very advanced (used during the BSc EOR and thus appropriate for the technical track of the minor).&#x20;
+* Ideally, more in-dept knowledge is required, and the second reference provides exactly that background (suitable for the _regular track_ of the minor).&#x20;
+* The third reference is very advanced (used during the BSc EOR and thus appropriate for the _technical track_ of the minor).&#x20;
 
 #### _Basic:_
 
