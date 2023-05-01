@@ -19,19 +19,21 @@ The following books are suitable as an introduction in the fields of Probability
 * Ideally, more in-dept knowledge is required, and the second reference provides exactly that background (suitable for the _regular track_ of the minor).&#x20;
 * The third reference is very advanced (used during the BSc EOR and thus appropriate for the _technical track_ of the minor).&#x20;
 
-#### _Basic:_
+### References
+
+#### _Basic_
 
 > [Stock, J.H. and Watson, M.W. (2019). _Introduction to Econometrics_. 4th edition.](https://scholar.harvard.edu/stock/pages/introduction-econometrics)
 >
 > _--> Chapter 1-3._
 
-#### _Intermediate:_
+#### _Intermediate_
 
 > [Rice, J.A. (2007). _Mathematical Statistics and Data Analysis._ Cengage Learning. ](http://home.ustc.edu.cn/\~liweiyu/documents/\[Duxbury%20Advanced]%20John%20A.%20Rice%20-%20Mathematical%20Statistics%20and%20Data%20Analysis%203ed%20\(Duxbury%20Advanced\)%20%20%20\(2006,%20Duxbury%20Press\).pdf)
 >
 > _--> Chapter 1-6, 8, 12._
 
-#### _Advanced:_
+#### _Advanced_
 
 > [Casella, G. and Berger, R.L. (2008). _Statistical Inference._ International Edition of the 2nd revised edition, Cengage Learning. ](https://www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126)
 >
@@ -43,6 +45,8 @@ The following books are suitable as an introduction to the field of Econometrics
 
 * The first two books are often used textbooks for introductory econometrics. In the BSc EOR, they are used in the second-year courses Econometrics I and II and therefore provide appropriate references.
 * The last two books combine econometrics and linear algebra, because the linear regression model is considered in the context of matrix algebra. The books are quite thin and cover the basics, which makes them appropriate for self-study.&#x20;
+
+### References
 
 #### _Basic/intermediate (no matrix algebra):_
 
@@ -70,11 +74,13 @@ These books can be bought as a set with discount at [VU University Press](https:
 {% endtab %}
 
 {% tab title="Linear Algebra" %}
+### References
+
 > Lay, D.C., Lay, S.R. and McDonald, J.J. (2021). _Linear Algebra and its Applications._ 5th edition, Pearson Global Edition, ISBN-139781292092232
 {% endtab %}
 
 {% tab title="Analysis" %}
-
+### References
 {% endtab %}
 
 {% tab title="Programming" %}
