@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📓 Preparation Module](README.md)
+* [📓 Preparation module](README.md)
 * [📋 Table of contents](\_summary.md)
 * [📚 Important concepts](important-concepts/README.md)
   * [📉 What is econometrics?](important-concepts/what-is-econometrics.md)
