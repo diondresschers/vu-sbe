@@ -10,12 +10,14 @@ We could come up with even more applications of econometrics, but it is clear th
 
 * Data might be observed over time (e.g. monthly inflation in the Netherlands from 2000 until 2023). We call this **time series data**.
 * Data can be observed at one point in time but from different respondents (e.g. respondents filling in a questionnaire about their customer satisfaction). We call this **cross-sectional data**.
-* We could also have a combination of both (e.g. a supermarkt asking customers to fill in a questionnaire every year). We call this **panel data**.
+* We could also have a combination of both (e.g. a supermarket asking customers to fill in a questionnaire every year). We call this **panel data**.
 
 We can also have certain complicated features of data (or problems within a data set). Just to name a few:
 
-* Data can be observed during a fixed recurrent period (e.g. every month or every quarter), but can also come in irregularly (e.g. google trend data).&#x20;
-* Data can have missing entries or breaks.&#x20;
-* Data can be recorded in the wrong format (e.g. text).
+* Data can be observed during a fixed recurrent period (e.g. every month or every quarter), but can also be measured **irregularly** (e.g. Google trend data).&#x20;
+* Data can have **missing entries** or **breaks**.&#x20;
+* Data can be recorded in **the wrong format** (e.g. text).
 
-In short: an econometrician might face various challenges! To be able to deal with these, it is important to have a solid background in mathematics and statistics. The list of concepts mostly contains topics in statistics, as they are vital for a first course in econometrics. However, a _basic background_ in especially linear algebra and analysis is desirable to fully understand most of the concepts. You can find literature for these topics [here](../literature.md).
+In short: an econometrician might face various challenges! To be able to deal with these, it is important to have a solid background in mathematics and statistics. The list of concepts mostly contains topics in statistics, as they are vital for a first course in econometrics. However, a _basic background_ in especially linear algebra and analysis is desirable to fully understand most of the concepts.&#x20;
+
+The next pages explain _informally_ why these topics are important to an econometrician. For a more formal treatment, please find appropriate literature [here](../literature.md).
