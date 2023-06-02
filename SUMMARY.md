@@ -9,4 +9,3 @@
   * [🧪 Inference](important-concepts/inference.md)
   * [♾ Asymptotics](important-concepts/asymptotics.md)
 * [📖 Literature](literature.md)
-* [🖊 NOTES](notes.md)
