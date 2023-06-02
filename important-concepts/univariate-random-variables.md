@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1541278107931-e006523892df?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxjYXJkc3xlbnwwfHx8fDE2ODU3MDY4ODV8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # ♦ Univariate random variables
 
 **Randomness** play a crucial role in econometrics. This is because econometricians see data as **realizations** (outcomes) of a sequence of **random variables**. Just think about it: if you go out on the streets on Monday and Tuesday and each day ask 100 strangers for their height, you won't get the same 100 outcomes on both days. This is because you obtained two **random samples** which contain information about the **population**, which in this case could be the inhabitants of Amsterdam.&#x20;
