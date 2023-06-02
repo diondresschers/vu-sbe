@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # 📉 What is econometrics?
 
 Before we discuss some of the concepts of last page in more detail, it is important to define what econometrics is. There are various definitions out there, but generally econometrics is concerned with _applying statistical and mathematical methods to economic and financial data_. An econometrician might have multiple reasons in mind to do this. Let's discuss a few:
