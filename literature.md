@@ -111,7 +111,10 @@ Note that courses for both programming languages are also available online using
 {% endtab %}
 
 {% tab title="High school math" %}
-Do you feel like your math skills are a bit rusty? Note that [Khan Academy](https://www.khanacademy.org/) offers a free platform with theory and practice quizzes.&#x20;
+Do you feel like your math skills are a bit rusty?&#x20;
+
+* You can follow the VU Summer Course (EOR/EDS) on the platform [SOWISO](https://cloud.sowiso.nl/enroll/25bxvuoZ). It is especially designed for prospective BSc Econometrics and Operations Research students. It thus provides practice on exactly those topics that are important in the field.&#x20;
+* Alternatively, [Khan Academy](https://www.khanacademy.org/) offers a free platform with theory and practice quizzes.&#x20;
 {% endtab %}
 {% endtabs %}
 
