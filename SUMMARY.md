@@ -6,6 +6,6 @@
   * [📉 What is econometrics?](important-concepts/what-is-econometrics.md)
   * [♦ Univariate random variables](important-concepts/univariate-random-variables.md)
   * [♠ Multivariate random variables](important-concepts/multivariate-random-variables.md)
-  * [🧪 Inference](important-concepts/inference.md)
+  * [🧪 Estimation and inference](important-concepts/estimation-and-inference.md)
   * [♾ Asymptotics](important-concepts/asymptotics.md)
 * [📖 Literature](literature.md)

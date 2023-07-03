@@ -16,6 +16,7 @@ It is generally difficult to define a complete profile in terms of background kn
 * Multivariate random variables (covariance and correlation matrix)
 * Conditioning: conditional distributions, conditional mean, variance and covariance
 * Law of total expectation
+* Estimation: ordinary least squares, maximum likelihood, method of moments
 * Inference: hypothesis testing, _p_-values_,_ confidence intervals
 *   Asymptotics: convergence in probability, convergence in distribution, law of large numbers,
 
