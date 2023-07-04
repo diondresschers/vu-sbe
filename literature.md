@@ -115,7 +115,7 @@ Do you feel like your math skills are a bit rusty?&#x20;
 
 * You can follow the VU Summer Course (EOR/EDS) on the platform [SOWISO](https://cloud.sowiso.nl/enroll/25bxvuoZ). It is especially designed for prospective BSc Econometrics and Operations Research students. It thus provides practice on exactly those topics that are important in the field.&#x20;
 * Alternatively, [Khan Academy](https://www.khanacademy.org/) offers a free platform with theory and practice quizzes.
-* [K. Sydsaeter, P. Hammond, A. Strom, A. Carvajal (2016). _Essential Mathematics for Economic Analysis_. Fifth edition. Pearson.](https://www.pearson.com/nl/en\_NL/higher-education/subject-catalogue/economics/sydsaeter-essential-mathematics-for-economic-analysis-6e.html?tab=about)&#x20;
+* [K. Sydsaeter, P. Hammond, A. Strom, A. Carvajal (2021). _Essential Mathematics for Economic Analysis_. Sixth edition. Pearson.](https://www.pearson.com/nl/en\_NL/higher-education/subject-catalogue/economics/sydsaeter-essential-mathematics-for-economic-analysis-6e.html?tab=about)&#x20;
 {% endtab %}
 {% endtabs %}
 
