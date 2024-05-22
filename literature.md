@@ -81,13 +81,19 @@ These books can be bought as a set with discount at [VU University Press](https:
 
 {% tab title="Analysis" %}
 ### References
+
+Sydsaeter K., Hammond P., Strom A. and Carvajal, A. (2016). _Essential Mathematics for Economic Analysis_. Fifth edition. Pearson.
 {% endtab %}
 
 {% tab title="Programming" %}
 The two main programming languages used in the minor Applied Econometrics are Python and R. You do not have to be an expert in both, so it is sufficient to focus on one of them.
 
-* In the regular track, you will get a (short) introduction to programming. It is not mandatory to have programming pre-knowledge, but it might be useful.
+* In the regular track, you will get a (short) introduction to programming. It is not mandatory to have programming pre-knowledge, but it can be very useful.
 * In the technical track, it is assumed that you know how to program in at least one programming language (e.g., R, Pyton, Matlab, Julia, C++, Java).
+
+Note that you most importantly focus on getting to know **the basics of programming.** This involves defining variables, expressions, if-statements, for-loops, etc. For Python, Chapter 1-5 of the online book "[How to think like a computer scientist](https://readthedocs.org/projects/howtothink/downloads/pdf/latest/)" is a good indication of useful programming knowledge for econometricians. Replicating the results in those chapters might be a nice way to learn programming step-by-step.
+
+Another option is to follow an online course; we list a few below. It suffices to follow one on the basics of programming, see previous paragraph for some crucial topics. There is no need to follow extremely elaborate courses on complex topics (the course selection that these websites offer is sometimes quite overwhelming).&#x20;
 
 ### Online courses
 
@@ -113,8 +119,7 @@ Note that courses for both programming languages are also available online using
 {% tab title="High school math" %}
 Do you feel like your math skills are a bit rusty?&#x20;
 
-* You can follow the VU Summer Course (EOR/EDS) on the platform [SOWISO](https://cloud.sowiso.nl/enroll/25bxvuoZ). It is especially designed for prospective BSc Econometrics and Operations Research students. It thus provides practice on exactly those topics that are important in the field.&#x20;
-* Alternatively, [Khan Academy](https://www.khanacademy.org/) offers a free platform with theory and practice quizzes.
+* [Khan Academy](https://www.khanacademy.org/) offers a free platform with theory and practice quizzes.
 * [K. Sydsaeter, P. Hammond, A. Strom, A. Carvajal (2021). _Essential Mathematics for Economic Analysis_. Sixth edition. Pearson.](https://www.pearson.com/nl/en\_NL/higher-education/subject-catalogue/economics/sydsaeter-essential-mathematics-for-economic-analysis-6e.html?tab=about)&#x20;
 {% endtab %}
 {% endtabs %}
