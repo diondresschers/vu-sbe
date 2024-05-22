@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# ♠ Multivariate random variables
+# ♠️ Multivariate random variables
 
 As alluded to on the previous page, econometricians are often interested in the relationship between two or more random variables. Therefore, we need measures that give us insight into the **joint probability distribution** of these random variables.&#x20;
 
@@ -12,12 +12,12 @@ An important quantity is the **covariance**, which is a measure of joint variabi
 
 Whereas the previous measures are useful, they only tell part of the story. More specifically, they only provide information on how two random variables are related **linearly**. Correlation is however just one way for random variables to be **dependent**. Note for example that it is possible for two random variables to be uncorrelated, yet dependent.
 
-> _Example._ Suppose we have two random variables $$X$$and $$Y$$, such that $$Y=X^2$$. Assume that $$X$$can only take values -1, 0 and 1 each with equal probability $$\frac{1}{3}$$(alternatively, we say that $$X$$is uniformly distributed on $$\{ -1, 0 , 1\}$$). Note that, using elementary results from probability theory:
+> _Example._ Suppose we have two random variables $$X$$and $$Y$$, such that $$Y=X^2$$. Assume that $$X$$can only take values $$-1, 0$$ and $$1$$ each with equal probability $$\frac{1}{3}$$(alternatively, we say that $$X$$is uniformly distributed on $$\{ -1, 0 , 1\}$$). Note that, using elementary results from probability theory:
 >
 > * $$\mathbb{E}(X) = (-1) \cdot \frac{1}{3} + 0 \cdot \frac{1}{3} + 1 \cdot \frac{1}{3} = -\frac{1}{3} + \frac{1}{3} = 0$$,
 > * $$\mathbb{E}(XY) = \mathbb{E}(X^{3}) = (-1)^3 \cdot \frac{1}{3} + 0^3 \cdot \frac{1}{3} + 1^3 \cdot \frac{1}{3} = -\frac{1}{3} + \frac{1}{3} = 0 = \mathbb{E}(X)\mathbb{E}(Y)$$.
 >
-> Because $$\mathbb{E}(XY) = \mathbb{E}(X)\mathbb{E}(Y)$$,$$X$$and $$Y$$are _uncorrelated_. We can however show that they are dependent:
+> Because $$\mathbb{E}(XY) = \mathbb{E}(X)\mathbb{E}(Y)$$, $$X$$and $$Y$$are _uncorrelated_. We can however show that they are dependent:
 >
 > * $$\mathbb{P}(X = -1 \text{ and } Y=1) = \mathbb{P}( X = -1) = \frac{1}{3}$$,
 > * $$\mathbb{P}(X=-1)\mathbb{P}(Y=1) = \frac{1}{3} \cdot \frac{2}{3} = \frac{2}{9}$$.
