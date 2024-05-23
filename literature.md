@@ -82,7 +82,7 @@ These books can be bought as a set with discount at [VU University Press](https:
 {% tab title="Analysis" %}
 ### References
 
-Sydsaeter K., Hammond P., Strom A. and Carvajal, A. (2016). _Essential Mathematics for Economic Analysis_. Fifth edition. Pearson.
+[Sydsaeter K., Hammond P., Strom A. and Carvajal, A. (2021). _Essential Mathematics for Economic Analysis_. Fifth edition. Pearson.](https://www.pearson.com/nl/en\_NL/higher-education/subject-catalogue/economics/sydsaeter-essential-mathematics-for-economic-analysis-6e.html?tab=about)
 {% endtab %}
 
 {% tab title="Programming" %}
