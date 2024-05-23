@@ -120,7 +120,7 @@ Note that courses for both programming languages are also available online using
 Do you feel like your math skills are a bit rusty?&#x20;
 
 * [Khan Academy](https://www.khanacademy.org/) offers a free platform with theory and practice quizzes.
-* [K. Sydsaeter, P. Hammond, A. Strom, A. Carvajal (2021). _Essential Mathematics for Economic Analysis_. Sixth edition. Pearson.](https://www.pearson.com/nl/en\_NL/higher-education/subject-catalogue/economics/sydsaeter-essential-mathematics-for-economic-analysis-6e.html?tab=about)&#x20;
+* [K. Sydsaeter, P. Hammond, A. Strom, A. Carvajal (2021). _Essential Mathematics for Economic Analysis_. Sixth edition. Pearson.](https://www.pearson.com/nl/en\_NL/higher-education/subject-catalogue/economics/sydsaeter-essential-mathematics-for-economic-analysis-6e.html?tab=about) _(Book has a lot of exercises)_
 {% endtab %}
 {% endtabs %}
 
