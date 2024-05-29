@@ -11,6 +11,8 @@ This page provides some useful references with respect to different areas that a
 * Give you the possibility to read up on (and practice) particular topics you feel less certain about.
 * Check whether your pre-requisite knowledge matches with the expected level for this minor program.
 
+In addition to the sources below, you might also want to visit [the website of dr. K. Moussa](https://www.k-moussa.com/teaching), who is a teacher in the minor programme. He has set up notes on programming, probability theory and statistics, which are tailor-mode for this study.
+
 {% tabs %}
 {% tab title="Statistics" %}
 The following books are suitable as an introduction in the fields of Probability Theory and Statistics.&#x20;
