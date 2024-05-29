@@ -24,3 +24,5 @@ It is generally difficult to define a complete profile in terms of background kn
 
 It is highly advisable that you are familiar with (most of) them as background knowledge. The following pages explain intuitively why these concepts are important to get a smooth start into your first econometrics courses. For a formal treatment of the concepts, you can find appropriate references in the [Literature](../literature.md) section.
 
+You might also want to visit [the website of dr. K. Moussa](https://www.k-moussa.com/teaching), who is teaching in the minor programme. He has created notes on programming, probability theory and statistics that are tailor-made for the courses in period 1 of the minor.
+
