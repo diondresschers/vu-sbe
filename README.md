@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# 📓 Preparation Module
+# 📓 Preparation module
 
 If you ended up here, you are probably thinking about studying the [Minor Applied Econometrics](https://vu.nl/en/education/minor/applied-econometrics-a-big-data-experience-for-all) (AE) at the [School of Business and Economics](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics) of the [Vrije Universiteit Amsterdam](https://vu.nl/en). The minor AE has two different tracks, the _regular track_ and the _technical track_. You can read more about them [here](https://vu.nl/en/education/minor/applied-econometrics-a-big-data-experience-for-all/curriculum).
 
@@ -17,5 +17,5 @@ If you want to know more about the contents of the minor, please visit the [VU s
 
 We hope you'll enjoy the minor Applied Econometrics: A Big Data Experience for All!\
 \
-Sean Telg (_minor coordinator)_\
-_-_ on behalf of all teachers in the minor&#x20;
+Lennart Hoogerheide (_minor coordinator)_\
+_-_ on behalf of all teachers in the minor
