@@ -31,7 +31,7 @@ The following books are suitable as an introduction in the fields of Probability
 
 #### _Intermediate_
 
-> [Rice, J.A. (2007). _Mathematical Statistics and Data Analysis._ Cengage Learning.](https://books.google.nl/books/about/Mathematical\_Statistics\_and\_Data\_Analysi.html?id=7SI8AAAAQBAJ\&redir\_esc=y)&#x20;
+> [Rice, J.A. (2007). _Mathematical Statistics and Data Analysis._ Cengage Learning.](https://books.google.nl/books/about/Mathematical_Statistics_and_Data_Analysi.html?id=7SI8AAAAQBAJ\&redir_esc=y)&#x20;
 >
 > _--> Chapter 1-6, 8, 12._
 
@@ -58,7 +58,7 @@ The following books are suitable as an introduction to the field of Econometrics
 >
 > \--> Chapter 6-7 (multiple linear regression)
 
-> [Wooldridge, J. (2013). _Introductory Econometrics._ A Modern Approach, 5th international edition.](https://drive.google.com/file/d/1Gw\_VYjaRxi8Tq-EroKiQLJYuFIW3gs9f/view)
+> [Wooldridge, J. (2013). _Introductory Econometrics._ A Modern Approach, 5th international edition.](https://drive.google.com/file/d/1Gw_VYjaRxi8Tq-EroKiQLJYuFIW3gs9f/view)
 >
 > \--> Chapter 1-5
 
@@ -84,7 +84,7 @@ These books can be bought as a set with discount at [VU University Press](https:
 {% tab title="Analysis" %}
 ### References
 
-[Sydsaeter K., Hammond P., Strom A. and Carvajal, A. (2021). _Essential Mathematics for Economic Analysis_. Fifth edition. Pearson.](https://www.pearson.com/nl/en\_NL/higher-education/subject-catalogue/economics/sydsaeter-essential-mathematics-for-economic-analysis-6e.html?tab=about)
+[Sydsaeter K., Hammond P., Strom A. and Carvajal, A. (2021). _Essential Mathematics for Economic Analysis_. Fifth edition. Pearson.](https://www.pearson.com/nl/en_NL/higher-education/subject-catalogue/economics/sydsaeter-essential-mathematics-for-economic-analysis-6e.html?tab=about)
 {% endtab %}
 
 {% tab title="Programming" %}
@@ -119,11 +119,11 @@ Note that courses for both programming languages are also available online using
 {% endtab %}
 
 {% tab title="High school math" %}
-Do you feel like your math skills are a bit rusty?&#x20;
+Do you feel like your math skills are a bit rusty? Here are some suggestions.
 
-* Take part in the summer preparation programme that is also followed by prospective students in the bachelor Econometrics. You can sign up for it using the link [https://cloud.sowiso.nl/enroll/ERxdsLv7](https://cloud.sowiso.nl/enroll/ERxdsLv7). Costs are €26.25.
 * [Khan Academy](https://www.khanacademy.org/) offers a free platform with theory and practice quizzes.
-* [K. Sydsaeter, P. Hammond, A. Strom, A. Carvajal (2021). _Essential Mathematics for Economic Analysis_. Sixth edition. Pearson.](https://www.pearson.com/nl/en\_NL/higher-education/subject-catalogue/economics/sydsaeter-essential-mathematics-for-economic-analysis-6e.html?tab=about) _(Book has a lot of exercises)_
+* [K. Sydsaeter, P. Hammond, A. Strom, A. Carvajal (2021). _Essential Mathematics for Economic Analysis_. Sixth edition. Pearson.](https://www.pearson.com/nl/en_NL/higher-education/subject-catalogue/economics/sydsaeter-essential-mathematics-for-economic-analysis-6e.html?tab=about) _(Book has a lot of exercises)_
+  * Based on this book, we also set up a preparation website for prospective students of the BSc Econometrics and Operations Research and BSc Econometrics and Data Science. It contains many exercises, including solutions. You can access it [here](https://vu-bsc-eor-and-eds.gitbook.io/preparation-website-bsc-eor-eds).
 {% endtab %}
 {% endtabs %}
 
