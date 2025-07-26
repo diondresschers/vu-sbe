@@ -19,3 +19,7 @@ We hope you'll enjoy the minor Applied Econometrics: A Big Data Experience for A
 \
 Lennart Hoogerheide (_minor coordinator)_\
 _-_ on behalf of all teachers in the minor
+
+
+
+_© 2025 Sean Telg, All Rights Reserved_
